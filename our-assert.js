@@ -3,6 +3,7 @@ const assertEqual = (a, b) => {
     console.log('they match');
   } else {
     console.log('don\'t match');
+    // throw new Error('failed!!!!');
   }
 };
 
