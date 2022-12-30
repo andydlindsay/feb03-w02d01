@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/andydlindsay/feb03-w02d01#readme",
   "devDependencies": {
-    "mocha": "^7.0.1",
+    "mocha": "^10.2.0",
     "chai": "^4.2.0"
   },
   "dependencies": {}
